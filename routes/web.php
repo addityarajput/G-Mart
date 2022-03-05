@@ -14,7 +14,8 @@
 
 
 use App\Http\Controllers\homeController;
-use App\Http\Controllers\LoginController;
+use App\Http\Controllers\Auth\LoginController;
+use Illuminate\Foundation\Auth\AuthenticatesUsers;
 
 use App\Http\Controllers\adminController;
 
@@ -34,7 +35,7 @@ Route::get('/', function () {
 // Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
-Route::get('logout', 'LoginController@logout')->name('logout');
+Route::get('logout', '\App\Http\Controllers\Auth\LoginController@logout')->name('logout');
 
 Auth::routes();
 
