@@ -14,6 +14,7 @@
 
 
 use App\Http\Controllers\homeController;
+use App\Http\Controllers\LoginController;
 
 use App\Http\Controllers\adminController;
 
@@ -30,10 +31,12 @@ Route::get('/', function () {
 \Illuminate\support\Facades\Route::get('adminHome',[adminController::class,'admin'])->name('adminHome');
 \Illuminate\support\Facades\Route::get('home',[homeController::class,'luck'])->name('home');
 
-Auth::routes();
+// Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+Route::get('logout', 'LoginController@logout')->name('logout');
 
 Auth::routes();
+
 
 Route::get('/homepage', 'HomeController@index')->name('homepage');
