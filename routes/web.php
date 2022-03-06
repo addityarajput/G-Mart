@@ -19,25 +19,29 @@ use Illuminate\Foundation\Auth\AuthenticatesUsers;
 
 use App\Http\Controllers\adminController;
 
-
-
 Route::get('/', function () {
-    return view('welcome');
+    $settings =  \App\SiteSetting::find(1);
+    \Illuminate\Support\Facades\Session::put('site_settings',$settings);
+    return view('homePage');
 });
 
-//G-mart 
+//G-mart
 //Homepage
 \Illuminate\support\Facades\Route::get('homepage',[homeController::class,'index'])->name('homepage');
 //admin home
-\Illuminate\support\Facades\Route::get('adminHome',[adminController::class,'admin'])->name('adminHome');
-\Illuminate\support\Facades\Route::get('home',[homeController::class,'luck'])->name('home');
+\Illuminate\support\Facades\Route::get('/adminHome',[adminController::class,'admin'])->name('adminHome');
+\Illuminate\support\Facades\Route::get('/home',[homeController::class,'luck'])->name('home');
 
 // Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
-Route::get('logout', '\App\Http\Controllers\Auth\LoginController@logout')->name('logout');
+Route::get('/logout', '\App\Http\Controllers\Auth\LoginController@logout')->name('logout');
 
 Auth::routes();
 
 
 Route::get('/homepage', 'HomeController@index')->name('homepage');
+
+//site setting routes
+\Illuminate\Support\Facades\Route::get('/site_settng',[\App\Http\Controllers\SiteSettingController::class,'site'])->name('site.settings');
+\Illuminate\Support\Facades\Route::post('/update_setting',[\App\Http\Controllers\SiteSettingController::class,'updateSettings'])->name('site.settings.update');

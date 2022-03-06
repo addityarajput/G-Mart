@@ -45,7 +45,7 @@
                 ₹115.00
 
                                                 <del>₹120.00</del>
-                  
+
                                             </p>
                                         </div>
                                         <button class="btn-cart welcome-add-cart" onclick="window.location.href='#'">
@@ -177,7 +177,7 @@
                     </div><!--/.welcome-hero-content-->
                 </div><!-- /.container-->
             </div><!-- /.single-slide-item-->
-            
+
         </div><!-- /.item .active-->
     </div><!-- /.carousel-inner-->
 
@@ -201,15 +201,16 @@
             </div>
             <!-- End Top Search -->
 
-            <div class="container">            
+            <div class="container">
                 <!-- Start Atribute Navigation -->
                 <div class="attr-nav">
                     <ul>
                         <li class="search">
                             <a href="#"><span class="lnr lnr-magnifier"></span></a>
                         </li><!--/.search-->
+{{--                        {{ dd(\Illuminate\Support\Facades\Auth::check()) }}--}}
                         <li class="nav-setting">
-                            <a href="{{route('logout')}}"><span class="lnr lnr-cog"></span></a>
+                            <a href="{{ \Illuminate\Support\Facades\Auth::check() ?  route('logout') : '#' }}"><span class="lnr lnr-cog"></span></a>
                         </li><!--/.search-->
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" >
@@ -519,7 +520,7 @@
 					</div>
 				</div>
 			</div><!--/.container-->
-		
+
 		</section><!--/.new-arrivals-->
 		<!--new-arrivals end -->
 
@@ -531,7 +532,7 @@
 						<div class="sofa-collection-txt">
 							<h2>unlimited sofa collection</h2>
 							<p>
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 							</p>
 							<div class="sofa-collection-price">
 								<h4>strting from <span>$ 199</span></h4>
@@ -540,14 +541,14 @@
 								view more
 							</button>
 						</div>
-					</div>	
+					</div>
 				</div><!--/.sofa-collection-->
 				<div class="sofa-collection collectionbg2">
 					<div class="container">
 						<div class="sofa-collection-txt">
 							<h2>unlimited dainning table collection</h2>
 							<p>
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 							</p>
 							<div class="sofa-collection-price">
 								<h4>strting from <span>$ 299</span></h4>
@@ -664,11 +665,11 @@
 									<h2><a href="#">Why Brands are Looking at Local Language</a></h2>
 									<h3>By <a href="#">Robert Norby</a> / 18th March 2018</h3>
 									<p>
-										Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.... 
+										Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt....
 									</p>
 								</div>
 							</div>
-							
+
 						</div>
 						<div class="col-sm-4">
 							<div class="single-blog">
@@ -680,7 +681,7 @@
 									<h2><a href="#">Why Brands are Looking at Local Language</a></h2>
 									<h3>By <a href="#">Robert Norby</a> / 18th March 2018</h3>
 									<p>
-										Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.... 
+										Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt....
 									</p>
 								</div>
 							</div>
@@ -695,7 +696,7 @@
 									<h2><a href="#">Why Brands are Looking at Local Language</a></h2>
 									<h3>By <a href="#">Robert Norby</a> / 18th March 2018</h3>
 									<p>
-										Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.... 
+										Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt....
 									</p>
 								</div>
 							</div>
@@ -703,6 +704,6 @@
 					</div>
 				</div>
 			</div><!--/.container-->
-			
+
 		</section><!--/.blog-->
 		<!--blog end -->

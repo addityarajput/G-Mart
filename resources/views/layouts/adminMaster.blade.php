@@ -34,6 +34,8 @@
   <link href="css/nucleo-svg.css" rel="stylesheet" />
   <!-- CSS Files -->
   <link id="pagestyle" href="css/soft-ui-dashboard.css?v=1.0.3" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
 </head>
 
 <body class="g-sidenav-show  bg-gray-100">
@@ -42,11 +44,11 @@
     <!-- Navbar -->
   @include('layouts.includes.admin.adminHeader')
     <!-- End Navbar -->
-   
-     
-     
-     
-     
+
+
+     @yield('admin')
+
+
     @include('layouts.includes.admin.adminFooter')
     </div>
   </main>
