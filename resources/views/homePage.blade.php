@@ -52,7 +52,7 @@
                                             <span class="lnr lnr-plus-circle"></span>
                                             add <span>to</span> cart
                                         </button>
-                                        <button class="btn-cart welcome-add-cart welcome-more-info" onclick="window.location.href='#'">
+                                        <button class="btn-cart welcome-add-cart welcome-more-info" onclick="window.location.href='{{ route('review')}}'">
                                             more info
                                         </button>
                                     </div><!--/.welcome-hero-txt-->
@@ -106,7 +106,7 @@
                                             <span class="lnr lnr-plus-circle"></span>
                                             add <span>to</span> cart
                                         </button>
-                                        <button class="btn-cart welcome-add-cart welcome-more-info" onclick="window.location.href='#'">
+                                        <button class="btn-cart welcome-add-cart welcome-more-info" onclick="window.location.href='{{ route('review')}}'">
                                             more info
                                         </button>
                                     </div><!--/.welcome-hero-txt-->
@@ -160,7 +160,7 @@
                                             <span class="lnr lnr-plus-circle"></span>
                                             add <span>to</span> cart
                                         </button>
-                                        <button class="btn-cart welcome-add-cart welcome-more-info" onclick="window.location.href='#'">
+                                        <button class="btn-cart welcome-add-cart welcome-more-info" onclick="window.location.href='{{ route('review')}}'">
                                             more info
                                         </button>
                                     </div><!--/.welcome-hero-txt-->
@@ -272,7 +272,7 @@
 								<div class="single-populer-product-img mt40">
 									<img src="images/free/kuch.png" alt="populer-products images">
 								</div>
-								<h2><a href="#">kuch-kuch</a></h2>
+								<h2><a href="{{ route('review')}}">kuch-kuch</a></h2>
 								<div class="single-populer-products-para">
 									<p>As the name suggests, a mixture that contains a little-little of many selected ingredients, something more than 24 items to give you the signature taste this product is famous for.</p>
 								</div>
