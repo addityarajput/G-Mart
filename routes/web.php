@@ -50,3 +50,5 @@ Route::get('/homepage', 'HomeController@index')->name('homepage');
 
 // productReview
 Route::get('productReview','ProductRevController@rev')->name('review');
+// add product 
+Route::get('addprocduct','productController@add')->name('add');
