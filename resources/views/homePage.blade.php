@@ -305,7 +305,7 @@
 												<div class="populer-products-price">
 													<h4>Sales Start from <span>₹380</span></h4>
 												</div>
-												<button class="btn-cart welcome-add-cart populer-products-btn" onclick="window.location.href='#'">
+												<button class="btn-cart welcome-add-cart populer-products-btn" onclick="window.location.href='{{route('category')}}'">
 													discover more
 												</button>
 											</div>
@@ -523,7 +523,8 @@
 
 		</section><!--/.new-arrivals-->
 		<!--new-arrivals end -->
-
+	
+                	
 		<!--sofa-collection start -->
 		<section id="sofa-collection">
 			<div class="owl-carousel owl-theme" id="collection-carousel">
@@ -646,7 +647,8 @@
 
 		</section><!--/.feature-->
 		<!--feature end -->
-
+	
+	
 		<!--blog start -->
 		<section id="blog" class="blog">
 			<div class="container">
@@ -704,6 +706,7 @@
 					</div>
 				</div>
 			</div><!--/.container-->
+			 
 
 		</section><!--/.blog-->
 		<!--blog end -->

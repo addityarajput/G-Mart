@@ -17,6 +17,7 @@ use App\Http\Controllers\homeController;
 use App\Http\Controllers\Auth\LoginController;
 use Illuminate\Foundation\Auth\AuthenticatesUsers;
 use App\Http\Controllers\ProductRevController;
+use App\Http\Controllers\categoryController;
 
 use App\Http\Controllers\adminController;
 
@@ -52,3 +53,5 @@ Route::get('/homepage', 'HomeController@index')->name('homepage');
 Route::get('productReview','ProductRevController@rev')->name('review');
 // add product 
 Route::get('addprocduct','productController@add')->name('add');
+// category
+Route::get('category','categoryController@catv')->name('category');
