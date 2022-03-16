@@ -219,30 +219,30 @@
                             </a>
                             <ul class="dropdown-menu cart-list s-cate">
                                 <li class="single-cart-list">
-                                    <a href="#" class="photo"><img src="assets/images/collection/arrivals2.png" class="cart-thumb" class="cart-thumb" alt="image" /></a>
+                                    <a href="#" class="photo"><img src="assets/images/collection/product_pic.jpg" class="cart-thumb" class="cart-thumb" alt="image" /></a>
                                     <div class="cart-list-txt">
-                                        <h6><a href="#">arm <br> chair</a></h6>
-                                        <p>1 x - <span class="price">$180.00</span></p>
+                                        <h6><a href="#">30-gm <br>Roasted Tomato</a></h6>
+                                        <p>1 x - <span class="price">Rs.35/Packet</span></p>
                                     </div><!--/.cart-list-txt-->
                                     <div class="cart-close">
                                         <span class="lnr lnr-cross"></span>
                                     </div><!--/.cart-close-->
                                 </li><!--/.single-cart-list -->
                                 <li class="single-cart-list">
-                                    <a href="#" class="photo"><img src="assets/images/collection/arrivals2.png" class="cart-thumb" alt="image" /></a>
+                                    <a href="#" class="photo"><img src="assets/images/collection/product_pic.jpg" class="cart-thumb" alt="image" /></a>
                                     <div class="cart-list-txt">
-                                        <h6><a href="#">single <br> armchair</a></h6>
-                                        <p>1 x - <span class="price">$180.00</span></p>
+                                        <h6><a href="#">roasted_tomato <br></a></h6>
+                                        <p>1 x - <span class="price">Rs.35/Packet</span></p>
                                     </div><!--/.cart-list-txt-->
                                     <div class="cart-close">
                                         <span class="lnr lnr-cross"></span>
                                     </div><!--/.cart-close-->
                                 </li><!--/.single-cart-list -->
                                 <li class="single-cart-list">
-                                    <a href="#" class="photo"><img src="assets/images/collection/arrivals3.png" class="cart-thumb" alt="image" /></a>
+                                    <a href="#" class="photo"><img src="assets/images/collection/product_pic01.jpg" class="cart-thumb" alt="image" /></a>
                                     <div class="cart-list-txt">
-                                        <h6><a href="#">wooden arn <br> chair</a></h6>
-                                        <p>1 x - <span class="price">$180.00</span></p>
+                                        <h6><a href="#">Roasted corn <br> puff</a></h6>
+                                        <p>1 x - <span class="price">Rs.160/kg</span></p>
                                     </div><!--/.cart-list-txt-->
                                     <div class="cart-close">
                                         <span class="lnr lnr-cross"></span>
@@ -284,26 +284,26 @@
 									<div class="row">
 										<div class="col-md-4 col-sm-12">
 											<div class="single-inner-populer-product-img">
-												<img src="images/free/hon1.png" alt="populer-products images">
+												<img src="images/free/product_pic04" alt="populer-products images">
 											</div>
 										</div>
 										<div class="col-md-8 col-sm-12">
 											<div class="single-inner-populer-product-txt">
 												<h2>
 													<a href="#">
-														Dabur <span>and</span> Honey
+														Manchurian-corn puff<span>and</span> masala
 													</a>
 												</h2>
 												<p>
-												You might not have taken notice, but Dabur Honey has been a part of your breakfast, lunch and dinner for over 3 decades. Some people thank honey for weight management* and enhancing the taste of their foods. Dabur Honey has been sourcing nature’s best pure honey from diverse locations in India.
+												Manchurian Corn Puffs Masala Powder, Packaging Size: 5 kg
 												<p>
-												The best way to be young is to stay fit* and the key to fitness is Dabur Honey.
+												The first welth is health * and the key for heathy food is manchurian puff masala .
 
-		</p>
+		                                        </p>
 
-												</p>
+	                                            </p>
 												<div class="populer-products-price">
-													<h4>Sales Start from <span>₹380</span></h4>
+													<h4>Get latest price<span>₹ 125/kg</span></h4>
 												</div>
 												<button class="btn-cart welcome-add-cart populer-products-btn" onclick="window.location.href='{{route('category')}}'">
 													discover more
@@ -320,7 +320,7 @@
 									<div class="single-populer-product-img">
 										<img src="images/free/lays.png" alt="populer-products images">
 									</div>
-									<h2><a href="#">Lays chips</a></h2>
+									<h2><a href="#"></a></h2>
 									<div class="single-populer-products-para">
 										<p>Taste the classic Lays.</p>
 									</div>
