@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Molla - Bootstrap eCommerce Template</title>
+    <title>Category</title>
     <meta name="keywords" content="HTML5 Template">
     <meta name="description" content="Molla - Bootstrap eCommerce Template">
     <meta name="author" content="p-themes">
@@ -36,13 +36,13 @@
 
 <body>
     <div class="page-wrapper">
-   
-      @include('userfea.category.categoryHead')
-      
-      @yield('main')
-     
 
-      
+      @include('userfea.category.categoryHead')
+
+      @yield('main')
+
+
+
 
        @include('userfea.category.categoryFooter')
     </div><!-- End .page-wrapper -->
@@ -60,7 +60,7 @@
                 <input type="search" class="form-control" name="mobile-search" id="mobile-search" placeholder="Search in..." required>
                 <button class="btn btn-primary" type="submit"><i class="icon-search"></i></button>
             </form>
-            
+
             <nav class="mobile-nav">
                 <ul class="mobile-menu">
                     <li class="active">
@@ -346,7 +346,7 @@
     <script src="js/mollajs/jquery.magnific-popup.min.js"></script>
     <script src="js/mollajs/nouislider.min.js"></script>
     <!-- Main JS File -->
-    <script src="js/main.js"></script>
+    <script src="js/mollajs/main.js"></script>
 </body>
 
 

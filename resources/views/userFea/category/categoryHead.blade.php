@@ -29,11 +29,11 @@
                             <li>
                                 <a href="#">Links</a>
                                 <ul>
-                                    <li><a href="tel:#"><i class="icon-phone"></i>Call: +0123 456 789</a></li>
-                                    <li><a href="wishlist.html"><i class="icon-heart-o"></i>Wishlist <span>(3)</span></a></li>
+                                    <li><a href="tel:#"><i class="fa-solid fa-phone"></i></i>Call: +0123 456 789</a></li>
+                                    <li><a href="wishlist.html"><i class="fa-solid fa-heart"></i>Wishlist <span>(3)</span></a></li>
                                     <li><a href="about.html">About Us</a></li>
                                     <li><a href="contact.html">Contact Us</a></li>
-                                    <li><a href="#signin-modal" data-toggle="modal"><i class="icon-user"></i>Login</a></li>
+                                    <li><a href="#signin-modal" data-toggle="modal"><i class="fa-solid fa-user"></i>Login</a></li>
                                 </ul>
                             </li>
                         </ul><!-- End .top-menu -->
@@ -52,7 +52,7 @@
                         <a href="index.html" class="logo">
                             <img src="" alt="G-Mart logo" width="105" height="25">
                         </a>
-                        
+
                         <nav class="main-nav">
                             <ul class="menu sf-arrows">
                                 <li class="megamenu-container active">
