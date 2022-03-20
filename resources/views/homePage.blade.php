@@ -454,7 +454,7 @@
 						<div class="col-md-3 col-sm-4">
 							<div class="single-new-arrival">
 								<div class="single-new-arrival-bg">
-									<img src="images/free/puff.jpg" alt="new-arrivals images">
+									<img src="images/free/tide.jpeg" alt="new-arrivals images">
 									<div class="single-new-arrival-bg-overlay"></div>
 									<div class="sale bg-1">
 										<p>sale</p>
@@ -470,8 +470,8 @@
 										</p>
 									</div>
 								</div>
-								<h4><a href="#">mapple wood dinning table</a></h4>
-								<p class="arrival-product-price">$140.00</p>
+								<h4><a href="#">Tide Double Power Jasmine and Rose Detergent Powder 4 kg</a></h4>
+								<p class="arrival-product-price">₹472</p>
 							</div>
 						</div>
 						<div class="col-md-3 col-sm-4">

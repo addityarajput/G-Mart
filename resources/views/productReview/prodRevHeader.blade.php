@@ -452,14 +452,14 @@
 
                                 <div class="compare-actions">
                                     <a href="#" class="action-link">Clear All</a>
-                                    <a href="#" class="btn btn-outline-primary-2"><span>Compare</span><i class="icon-long-arrow-right"></i></a>
+                                    <a href="#" class="<span>Compare</span><i class="fa-light fa-arrow-left-long"></i></a>
                                 </div>
                             </div><!-- End .dropdown-menu -->
                         </div><!-- End .compare-dropdown -->
 
                         <div class="dropdown cart-dropdown">
                             <a href="#" class="dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-display="static">
-                                <i class="icon-shopping-cart"></i>
+                            <i class="fa-solid fa-cart-shopping"></i>
                                 <span class="cart-count">2</span>
                             </a>
 

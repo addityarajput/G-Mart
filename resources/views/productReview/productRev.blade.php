@@ -16,21 +16,15 @@
                                         </figure><!-- End .product-main-image -->
 
                                         <div id="product-zoom-gallery" class="product-image-gallery">
-                                            <a class="product-gallery-item active" href="#" data-image="images/free/bik.png" data-zoom-image="images/free/bik.png">
+                                            <a class="product-gallery-item active" href="#" data-image="images/free/moongback.jpg" data-zoom-image="images/free/bik.png">
                                                 <img src="images/free/bik.png" alt="product side">
                                             </a>
 
-                                            <a class="product-gallery-item" href="#" data-image="images/free/bik.png" data-zoom-image="images/free/bik.png">
-                                                <img src="images/free/bik.png" alt="product cross">
+                                            <a class="product-gallery-item" href="#" data-image="images/free/bik.png" data-zoom-image="images/free/moongback.jpg">
+                                                <img src="images/free/moongback.jpg" alt="product back">
                                             </a>
 
-                                            <a class="product-gallery-item" href="#" data-image="images/free/bik.png" data-zoom-image="images/free/bik.png">
-                                                <img src="images/free/bik.png.jpg" alt="product with model">
-                                            </a>
-
-                                            <a class="product-gallery-item" href="#" data-image="images/free/bik.png" data-zoom-image="images/free/bik.png">
-                                                <img src="images/free/bik.png" alt="product back">
-                                            </a>
+                                           
                                         </div><!-- End .product-image-gallery -->
                                     </div><!-- End .row -->
                                 </div><!-- End .product-gallery -->
@@ -72,7 +66,7 @@
                                         <label for="size">Size:</label>
                                         <div class="select-custom">
                                             <select name="size" id="size" class="form-control">
-                                                <option value="#" selected="selected">Select a size</option>
+                                                <option value="#" selected="selected">Select a size <i class="fa-solid fa-caret-down"></i></option>
                                                 <option value="s">Small</option>
                                                 <option value="m">Medium</option>
                                                 <option value="l">Large</option>

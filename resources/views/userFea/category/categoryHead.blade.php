@@ -50,9 +50,9 @@
                         </button>
 
                         <a href="index.html" class="logo">
-                            <img src="images/mollaimages/logo.png" alt="Molla Logo" width="105" height="25">
+                            <img src="" alt="G-Mart logo" width="105" height="25">
                         </a>
-
+                        
                         <nav class="main-nav">
                             <ul class="menu sf-arrows">
                                 <li class="megamenu-container active">
@@ -459,7 +459,7 @@
 
                         <div class="dropdown cart-dropdown">
                             <a href="#" class="dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-display="static">
-                                <i class="icon-shopping-cart"></i>
+                            <i class="fa-solid fa-cart-shopping"></i>
                                 <span class="cart-count">2</span>
                             </a>
 
