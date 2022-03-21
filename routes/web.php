@@ -51,7 +51,11 @@ Route::get('/homepage', 'HomeController@index')->name('homepage');
 
 // productReview
 Route::get('productReview','ProductRevController@rev')->name('review');
-// add product 
+// add product
 Route::get('addprocduct','productController@add')->name('add');
 // category
 Route::get('category','categoryController@catv')->name('category');
+//admin add brand
+Route::get('addbrand', 'addbrand@brand')->name('brand');
+//admin category
+Route::get('addcat', 'catCont@addcat')->name('cat');

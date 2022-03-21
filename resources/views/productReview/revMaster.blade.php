@@ -29,23 +29,23 @@
     <link rel="stylesheet" href="css/mollacss/plugins/owl-carousel/owl.carousel.css">
     <link rel="stylesheet" href="css/mollacss/plugins/magnific-popup/magnific-popup.css">
     <!-- Main CSS File -->
-    <link rel="stylesheet" href="css/mollacss/style.css">
+    <link rel="stylesheet" href="css//mollacss/style.css">
     <link rel="stylesheet" href="css/mollacss/plugins/nouislider/nouislider.css">
 </head>
 
 <body>
     <div class="page-wrapper">
-     
+
 @include('productReview.prodRevHeader')
         <main class="main">
             <nav aria-label="breadcrumb" class="breadcrumb-nav border-0 mb-0">
-             
+
             </nav><!-- End .breadcrumb-nav -->
             @yield('cont')
 
-         
+
 @include('productReview.prodRevFooter')
-      
+
     </div><!-- End .page-wrapper -->
     <button id="scroll-top" title="Back to Top"><i class="icon-arrow-up"></i></button>
 
@@ -64,7 +64,7 @@
 
                 <div class="col-6 justify-content-end">
                     <div class="product-price">
-                    ₹115.00 
+                    ₹115.00
                     </div><!-- End .product-price -->
                     <div class="product-details-quantity">
                         <input type="number" id="sticky-cart-qty" class="form-control" value="1" min="1" max="10" step="1" data-decimals="0" required>
@@ -91,7 +91,7 @@
                 <input type="search" class="form-control" name="mobile-search" id="mobile-search" placeholder="Search in..." required>
                 <button class="btn btn-primary" type="submit"><i class="icon-search"></i></button>
             </form>
-            
+
             <nav class="mobile-nav">
                 <ul class="mobile-menu">
                     <li class="active">

@@ -47,6 +47,8 @@
 
 
      @yield('admin')
+     @yield('brand')
+     @yield('cat')
 
 
     @include('layouts.includes.admin.adminFooter')
