@@ -25,12 +25,12 @@
     <meta name="msapplication-config" content="images/mollimages/icons/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
     <!-- Plugins CSS File -->
-    <link rel="stylesheet" href="css/mollacss/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <!-- Main CSS File -->
-    <link rel="stylesheet" href="css/mollacss/style.css">
-    <link rel="stylesheet" href="css/mollacss/plugins/owl-carousel/owl.carousel.css">
-    <link rel="stylesheet" href="css/mollacss/plugins/magnific-popup/magnific-popup.css">
-    <link rel="stylesheet" href="css/mollacss/plugins/nouislider/nouislider.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/plugins/owl-carousel/owl.carousel.css">
+    <link rel="stylesheet" href="assets/css/plugins/magnific-popup/magnific-popup.css">
+    <link rel="stylesheet" href="assets/css/plugins/nouislider/nouislider.css">
 </head>
 
 <body>
@@ -334,18 +334,18 @@
     </div><!-- End .modal -->
 
     <!-- Plugins JS File -->
-    <script src="js/mollajs/jquery.min.js"></script>
-    <script src="js/mollajs/bootstrap.bundle.min.js"></script>
-    <script src="js/mollajs/jquery.hoverIntent.min.js"></script>
-    <script src="js/mollajs/jquery.waypoints.min.js"></script>
-    <script src="js/mollajs/superfish.min.js"></script>
-    <script src="js/mollajs/owl.carousel.min.js"></script>
-    <script src="js/mollajs/wNumb.js"></script>
-    <script src="js/mollajs/bootstrap-input-spinner.js"></script>
-    <script src="js/mollajs/jquery.magnific-popup.min.js"></script>
-    <script src="js/mollajs/nouislider.min.js"></script>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/jquery.hoverIntent.min.js"></script>
+    <script src="assets/js/jquery.waypoints.min.js"></script>
+    <script src="assets/js/superfish.min.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/wNumb.js"></script>
+    <script src="assets/js/bootstrap-input-spinner.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/nouislider.min.js"></script>
     <!-- Main JS File -->
-    <script src="js/mollajs/main.js"></script>
+    <script src="assets/js/main.js"></script>
 </body>
 
 

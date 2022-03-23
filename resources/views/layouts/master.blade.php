@@ -10,13 +10,13 @@
 
         <!--font-family-->
 		<link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
-        
+
         <!-- title of site -->
         <title>Furniture</title>
 
         <!-- For favicon png -->
 		<link rel="shortcut icon" type="image/icon" href="assets/logo/favicon.png"/>
-       
+
         <!--font-awesome.min.css-->
         <link rel="stylesheet" href="css/font-awesome.min.css">
 
@@ -29,43 +29,43 @@
         <!--owl.carousel.css-->
         <link rel="stylesheet" href="css/owl.carousel.min.css">
 		<link rel="stylesheet" href="css/owl.theme.default.min.css">
-		
+
         <!--bootstrap.min.css-->
         <link rel="stylesheet" href="css/bootstrap.min.css">
-		
+
 		<!-- bootsnav -->
-		<link rel="stylesheet" href="css/bootsnav.css" >	
-        
+		<link rel="stylesheet" href="css/bootsnav.css" >
+
         <!--style.css-->
         <link rel="stylesheet" href="css/style.css">
-        
+
         <!--responsive.css-->
         <link rel="stylesheet" href="css/responsive.css">
-		
 
 
 
-    
+
+
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-		
+
         <!--[if lt IE 9]>
 			<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
 			<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
         <![endif]-->
 
     </head>
-	
+
 	<body>
 		<!--[if lte IE 9]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
         <![endif]-->
-		
-		
-	
+
+
+
 	@yield('content')
 
-		
+
 
 		<!-- clients strat -->
 		<section id="clients"  class="clients">
@@ -100,7 +100,7 @@
 
 			</div><!--/.container-->
 
-		</section><!--/.clients-->	
+		</section><!--/.clients-->
 		<!-- clients end -->
 
 		<!--newsletter strat -->
@@ -115,8 +115,8 @@
 								</div><!--/.hm-foot-title-->
 								<div class="hm-foot-menu">
 									<ul>
-										<li><a href="#">about us</a></li><!--/li-->
-										<li><a href="#">contact us</a></li><!--/li-->
+										<li><a href='{{route('about')}}'>about us</a></li><!--/li-->
+										<li><a href='{{route ('contact')}}'>contact us</a></li><!--/li-->
 										<li><a href="#">news</a></li><!--/li-->
 										<li><a href="#">store</a></li><!--/li-->
 									</ul><!--/ul-->
@@ -180,21 +180,21 @@
 
 			</div><!--/.container-->
 
-		</section><!--/newsletter-->	
+		</section><!--/newsletter-->
 		<!--newsletter end -->
 
 		@include('layouts.includes.footer')
-		
+
 		<!-- Include all js compiled plugins (below), or include individual files as needed -->
 
 		<script src="js/jquery.js"></script>
-        
+
         <!--modernizr.min.js-->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
-		
+
 		<!--bootstrap.min.js-->
         <script src="js/bootstrap.min.js"></script>
-		
+
 		<!-- bootsnav js -->
 		<script src="js/bootsnav.js"></script>
 
@@ -203,11 +203,11 @@
 
 
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
-		
-        
+
+
         <!--Custom JS-->
         <script src="js/custom.js"></script>
-        
+
     </body>
-	
+
 </html>

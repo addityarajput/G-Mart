@@ -2,16 +2,15 @@
 <html lang="en">
 
 
-<!-- molla/product.html  22 Nov 2019 09:54:50 GMT -->
+<!-- molla/contact.html  22 Nov 2019 10:04:01 GMT -->
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>G- Mart</title>
+    <title>Molla - Bootstrap eCommerce Template</title>
     <meta name="keywords" content="HTML5 Template">
     <meta name="description" content="Molla - Bootstrap eCommerce Template">
     <meta name="author" content="p-themes">
-    <script src="https://kit.fontawesome.com/8aa55b4629.js" crossorigin="anonymous"></script>
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="images/mollaimages/icons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="images/mollaimages/icons/favicon-32x32.png">
@@ -26,58 +25,20 @@
     <meta name="theme-color" content="#ffffff">
     <!-- Plugins CSS File -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/plugins/owl-carousel/owl.carousel.css">
-    <link rel="stylesheet" href="assets/css/plugins/magnific-popup/magnific-popup.css">
     <!-- Main CSS File -->
     <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="assets/css/plugins/nouislider/nouislider.css">
 </head>
 
 <body>
     <div class="page-wrapper">
 
-@include('productReview.prodRevHeader')
-        <main class="main">
-            <nav aria-label="breadcrumb" class="breadcrumb-nav border-0 mb-0">
 
-            </nav><!-- End .breadcrumb-nav -->
-            @yield('cont')
-
-
-@include('productReview.prodRevFooter')
+       @include('userFea.contactus.contactHeader')
+       @yield('contact')
+       @include('userFea.contactus.contactFooter')
 
     </div><!-- End .page-wrapper -->
     <button id="scroll-top" title="Back to Top"><i class="icon-arrow-up"></i></button>
-
-    <!-- Sticky Bar -->
-    <div class="sticky-bar">
-        <div class="container">
-            <div class="row">
-                <div class="col-6">
-                    <figure class="product-media">
-                        <a href="product.html">
-                            <img src="images/free/bik.png" alt="Product image">
-                        </a>
-                    </figure><!-- End .product-media -->
-                    <h4 class="product-title"><a href="product.html">Bikaji Bhujia</a></h4><!-- End .product-title -->
-                </div><!-- End .col-6 -->
-
-                <div class="col-6 justify-content-end">
-                    <div class="product-price">
-                    ₹115.00
-                    </div><!-- End .product-price -->
-                    <div class="product-details-quantity">
-                        <input type="number" id="sticky-cart-qty" class="form-control" value="1" min="1" max="10" step="1" data-decimals="0" required>
-                    </div><!-- End .product-details-quantity -->
-
-                    <div class="product-details-action">
-                        <a href="#" class="btn-product btn-cart"><span>add to cart</span></a>
-                        <a href="#" class="btn-product btn-wishlist" title="Wishlist"><span>Add to Wishlist</span></a>
-                    </div><!-- End .product-details-action -->
-                </div><!-- End .col-6 -->
-            </div><!-- End .row -->
-        </div><!-- End .container -->
-    </div><!-- End .sticky-bar -->
 
     <!-- Mobile Menu -->
     <div class="mobile-menu-overlay"></div><!-- End .mobil-menu-overlay -->
@@ -365,6 +326,9 @@
         </div><!-- End .modal-dialog -->
     </div><!-- End .modal -->
 
+    <!-- Google Map -->
+    <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDc3LRykbLB-y8MuomRUIY0qH5S6xgBLX4"></script>
+
     <!-- Plugins JS File -->
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/bootstrap.bundle.min.js"></script>
@@ -372,14 +336,10 @@
     <script src="assets/js/jquery.waypoints.min.js"></script>
     <script src="assets/js/superfish.min.js"></script>
     <script src="assets/js/owl.carousel.min.js"></script>
-    <script src="assets/js/bootstrap-input-spinner.js"></script>
-    <script src="assets/js/jquery.elevateZoom.min.js"></script>
-    <script src="assets/js/bootstrap-input-spinner.js"></script>
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
     <!-- Main JS File -->
     <script src="assets/js/main.js"></script>
 </body>
 
 
-<!-- molla/product.html  22 Nov 2019 09:55:05 GMT -->
+<!-- molla/contact.html  22 Nov 2019 10:04:03 GMT -->
 </html>

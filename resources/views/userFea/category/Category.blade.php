@@ -1,7 +1,7 @@
 @extends('userfea.category.categoryMaster')
 @section('main')
-<main class="main">
-        	
+    <main class="main">
+
             <nav aria-label="breadcrumb" class="breadcrumb-nav mb-2">
                 <div class="container">
                     <ol class="breadcrumb">
@@ -16,7 +16,7 @@
                 <div class="container">
                 	<div class="row">
                 		<div class="col-lg-9">
-                		
+
 
                             <div class="products mb-3">
                                 <div class="product product-list">
@@ -62,7 +62,7 @@
                                                 <div class="product-content">
                                                     <p>A traditional Indian Salty Fried Split Green Gram Snack </p>
                                                 </div><!-- End .product-content -->
-                                                
+
                                                 <div class="product-nav product-nav-thumbs">
                                                     <a href="#" class="active">
                                                         <img src="images/free/bik.png" alt="product desc">
@@ -71,7 +71,7 @@
                                                         <img src="images/free/moongback.jpg" alt="product desc">
                                                     </a>
 
-                                                   
+
                                                 </div><!-- End .product-nav -->
                                             </div><!-- End .product-body -->
                                         </div><!-- End .col-lg-6 -->
@@ -120,7 +120,7 @@
                                                 <div class="product-content">
                                                     <p>Amul Butter (Made of pure milk FAT) </p>
                                                 </div><!-- End .product-content -->
-                                                
+
                                                 <div class="product-nav product-nav-thumbs">
                                                     <a href="#" class="active">
                                                         <img src="images/free/amul.png" alt="product desc">
@@ -272,7 +272,7 @@
                                                 <div class="product-content">
                                                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque </p>
                                                 </div><!-- End .product-content -->
-                                                
+
                                                 <div class="product-nav product-nav-thumbs">
                                                     <a href="#" class="active">
                                                         <img src="assets/images/products/product-8-thumb.jpg" alt="product desc">
@@ -328,7 +328,7 @@
                                                 <div class="product-content">
                                                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque </p>
                                                 </div><!-- End .product-content -->
-                                                
+
                                                 <div class="product-nav product-nav-thumbs">
                                                     <a href="#" class="active">
                                                         <img src="assets/images/products/product-9-thumb.jpg" alt="product desc">

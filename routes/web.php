@@ -18,6 +18,7 @@ use App\Http\Controllers\Auth\LoginController;
 use Illuminate\Foundation\Auth\AuthenticatesUsers;
 use App\Http\Controllers\ProductRevController;
 use App\Http\Controllers\categoryController;
+use App\Http\Controllers\aboutController;
 
 use App\Http\Controllers\adminController;
 
@@ -59,3 +60,9 @@ Route::get('category','categoryController@catv')->name('category');
 Route::get('addbrand', 'addbrand@brand')->name('brand');
 //admin category
 Route::get('addcat', 'catCont@addcat')->name('cat');
+// about page
+Route::get('about', 'aboutController@aboutView')->name('about');
+// contact page
+Route::get('contact', 'contactController@contact')->name('contact');
+// coming soon page
+Route::get('coming', 'comingSoonController@soon')->name('coming');

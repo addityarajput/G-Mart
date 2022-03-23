@@ -50,7 +50,7 @@
                         </button>
 
                         <a href="index.html" class="logo">
-                            <img  alt="G- Mart logo" width="105" height="25">
+                            <img src="images/free/smallog.png" alt="G- Mart logo" width="105" height="25">
                         </a>
 
                         <nav class="main-nav">
@@ -459,7 +459,7 @@
 
                         <div class="dropdown cart-dropdown">
                             <a href="#" class="dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-display="static">
-                            <i class="fa-solid fa-cart-shopping"></i>
+                                <i class="icon-shopping-cart"></i>
                                 <span class="cart-count">2</span>
                             </a>
 

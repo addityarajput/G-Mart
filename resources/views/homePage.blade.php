@@ -106,7 +106,7 @@
                                             <span class="lnr lnr-plus-circle"></span>
                                             add <span>to</span> cart
                                         </button>
-                                        <button class="btn-cart welcome-add-cart welcome-more-info" onclick="window.location.href='{{ route('review')}}'">
+                                        <button class="btn-cart welcome-add-cart welcome-more-info" onclick="window.location.href='{{ route('coming')}}'">
                                             more info
                                         </button>
                                     </div><!--/.welcome-hero-txt-->
@@ -523,8 +523,8 @@
 
 		</section><!--/.new-arrivals-->
 		<!--new-arrivals end -->
-	
-                	
+
+
 		<!--sofa-collection start -->
 		<section id="sofa-collection">
 			<div class="owl-carousel owl-theme" id="collection-carousel">
@@ -647,8 +647,8 @@
 
 		</section><!--/.feature-->
 		<!--feature end -->
-	
-	
+
+
 		<!--blog start -->
 		<section id="blog" class="blog">
 			<div class="container">
@@ -706,7 +706,7 @@
 					</div>
 				</div>
 			</div><!--/.container-->
-			 
+
 
 		</section><!--/.blog-->
 		<!--blog end -->

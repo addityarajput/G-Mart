@@ -1,4 +1,4 @@
-<header class="header">
+ <header class="header">
             <div class="header-top">
                 <div class="container">
                     <div class="header-left">
@@ -29,11 +29,11 @@
                             <li>
                                 <a href="#">Links</a>
                                 <ul>
-                                    <li><a href="tel:#"><i class="fa-solid fa-phone"></i></i>Call: +0123 456 789</a></li>
-                                    <li><a href="wishlist.html"><i class="fa-solid fa-heart"></i>Wishlist <span>(3)</span></a></li>
+                                    <li><a href="tel:#"><i class="icon-phone"></i>Call: +0123 456 789</a></li>
+                                    <li><a href="wishlist.html"><i class="icon-heart-o"></i>Wishlist <span>(3)</span></a></li>
                                     <li><a href="about.html">About Us</a></li>
                                     <li><a href="contact.html">Contact Us</a></li>
-                                    <li><a href="#signin-modal" data-toggle="modal"><i class="fa-solid fa-user"></i>Login</a></li>
+                                    <li><a href="#signin-modal" data-toggle="modal"><i class="icon-user"></i>Login</a></li>
                                 </ul>
                             </li>
                         </ul><!-- End .top-menu -->
@@ -50,7 +50,7 @@
                         </button>
 
                         <a href="index.html" class="logo">
-                            <img src="images/free/smallog.png" alt="G-Mart logo" width="105" height="25">
+                            <img src="images/free/gmartlog.png" alt="Molla Logo" width="105" height="25">
                         </a>
 
                         <nav class="main-nav">
@@ -100,7 +100,7 @@
 
                                                 <div class="demo-item">
                                                     <a href="index-6.html">
-                                                        <span class="demo-bg" style="background-image: url(images/mollaimages/menu/demos/6.jpg);"></span>
+                                                        <span class="demo-bg" style="background-image: url(assets/images/menu/demos/6.jpg);"></span>
                                                         <span class="demo-title">06 - fashion store</span>
                                                     </a>
                                                 </div><!-- End .demo-item -->
