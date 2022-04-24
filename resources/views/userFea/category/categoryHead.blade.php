@@ -50,7 +50,7 @@
                         </button>
 
                         <a href="index.html" class="logo">
-                            <img src="images/free/smallog.png" alt="G-Mart logo" width="105" height="25">
+                            <img src="images/free/gmartlog.png" alt="G-Mart logo" width="105" height="25">
                         </a>
 
                         <nav class="main-nav">

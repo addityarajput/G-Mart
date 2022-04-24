@@ -19,7 +19,7 @@
                 <div class="col-lg-10 offset-lg-1">
                     <div class="about-text text-center mt-3">
                         <h2 class="title text-center mb-2">Who We Are</h2><!-- End .title text-center mb-2 -->
-                        <p>Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Suspendisse potenti. Sed egestas, ante et vulputate volutpat, uctus metus libero eu augue. Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. </p>
+                        <p>.G-Mart is developed by a group called "KAPAR group of comapnies" which include 5 students of BIT D.COM faculty batch 2079. G-Mart was the major project of our final year. </p>
                         <img src="images/mollaimages/about/about-2/signature.png" alt="signature" class="mx-auto mb-5">
 
                         <img src="images/free/gross.avif" alt="image" class="mx-auto mb-6">
@@ -136,7 +136,7 @@
                     <div class="col-sm-6 col-lg-3">
                         <div class="member member-2 text-center">
                             <figure class="member-media">
-                                <img src="images/free/prakash.jpeg" alt="member photo">
+                                <img src="images/free/prakash2.jpeg" alt="member photo">
 
                                 <figcaption class="member-overlay">
                                     <div class="social-icons social-icons-simple">
@@ -147,7 +147,7 @@
                                 </figcaption><!-- End .member-overlay -->
                             </figure><!-- End .member-media -->
                             <div class="member-content">
-                                <h3 class="member-title">Bruce Sutton<span>Sales & Marketing Manager</span></h3><!-- End .member-title -->
+                                <h3 class="member-title">Prakash Jaiswal<span>Group Member</span></h3><!-- End .member-title -->
                             </div><!-- End .member-content -->
                         </div><!-- End .member -->
                     </div><!-- End .col-lg-3 -->
@@ -155,7 +155,7 @@
                     <div class="col-sm-6 col-lg-3">
                         <div class="member member-2 text-center">
                             <figure class="member-media">
-                                <img src="assets/images/team/about-2/member-3.jpg" alt="member photo">
+                                <img src="images/free/abdul3.jpeg" alt="member photo">
 
                                 <figcaption class="member-overlay">
                                     <div class="social-icons social-icons-simple">
@@ -166,7 +166,7 @@
                                 </figcaption><!-- End .member-overlay -->
                             </figure><!-- End .member-media -->
                             <div class="member-content">
-                                <h3 class="member-title">Janet Joy<span>Product Manager</span></h3><!-- End .member-title -->
+                                <h3 class="member-title">Abdul Rauf Ansari<span>Group Member</span></h3><!-- End .member-title -->
                             </div><!-- End .member-content -->
                         </div><!-- End .member -->
                     </div><!-- End .col-lg-3 -->
@@ -174,7 +174,7 @@
                     <div class="col-sm-6 col-lg-3">
                         <div class="member member-2 text-center">
                             <figure class="member-media">
-                                <img src="assets/images/team/about-2/member-4.jpg" alt="member photo">
+                                <img src="images/free/krishna2.jpeg" alt="member photo">
 
                                 <figcaption class="member-overlay">
                                     <div class="social-icons social-icons-simple">
@@ -185,7 +185,7 @@
                                 </figcaption><!-- End .member-overlay -->
                             </figure><!-- End .member-media -->
                             <div class="member-content">
-                                <h3 class="member-title">Mark Pocket<span>Product Manager</span></h3><!-- End .member-title -->
+                                <h3 class="member-title">Krishna Pandit<span>group member</span></h3><!-- End .member-title -->
                             </div><!-- End .member-content -->
                         </div><!-- End .member -->
                     </div><!-- End .col-lg-3 -->
@@ -193,7 +193,7 @@
                     <div class="col-sm-6 col-lg-3">
                         <div class="member member-2 text-center">
                             <figure class="member-media">
-                                <img src="assets/images/team/about-2/member-5.jpg" alt="member photo">
+                                <img src="images/free/raj.jpeg" alt="member photo">
 
                                 <figcaption class="member-overlay">
                                     <div class="social-icons social-icons-simple">
@@ -204,68 +204,12 @@
                                 </figcaption><!-- End .member-overlay -->
                             </figure><!-- End .member-media -->
                             <div class="member-content">
-                                <h3 class="member-title">Damion Blue<span>Sales & Marketing Manager</span></h3><!-- End .member-title -->
+                                <h3 class="member-title">Rajkumar Ram<span>Group Member</span></h3><!-- End .member-title -->
                             </div><!-- End .member-content -->
                         </div><!-- End .member -->
                     </div><!-- End .col-lg-3 -->
 
-                    <div class="col-sm-6 col-lg-3">
-                        <div class="member member-2 text-center">
-                            <figure class="member-media">
-                                <img src="assets/images/team/about-2/member-6.jpg" alt="member photo">
 
-                                <figcaption class="member-overlay">
-                                    <div class="social-icons social-icons-simple">
-                                        <a href="#" class="social-icon" title="Facebook" target="_blank"><i class="icon-facebook-f"></i></a>
-                                        <a href="#" class="social-icon" title="Twitter" target="_blank"><i class="icon-twitter"></i></a>
-                                        <a href="#" class="social-icon" title="Instagram" target="_blank"><i class="icon-instagram"></i></a>
-                                    </div><!-- End .soial-icons -->
-                                </figcaption><!-- End .member-overlay -->
-                            </figure><!-- End .member-media -->
-                            <div class="member-content">
-                                <h3 class="member-title">Lenard Smith<span>Product Manager</span></h3><!-- End .member-title -->
-                            </div><!-- End .member-content -->
-                        </div><!-- End .member -->
-                    </div><!-- End .col-lg-3 -->
-
-                    <div class="col-sm-6 col-lg-3">
-                        <div class="member member-2 text-center">
-                            <figure class="member-media">
-                                <img src="assets/images/team/about-2/member-7.jpg" alt="member photo">
-
-                                <figcaption class="member-overlay">
-                                    <div class="social-icons social-icons-simple">
-                                        <a href="#" class="social-icon" title="Facebook" target="_blank"><i class="icon-facebook-f"></i></a>
-                                        <a href="#" class="social-icon" title="Twitter" target="_blank"><i class="icon-twitter"></i></a>
-                                        <a href="#" class="social-icon" title="Instagram" target="_blank"><i class="icon-instagram"></i></a>
-                                    </div><!-- End .soial-icons -->
-                                </figcaption><!-- End .member-overlay -->
-                            </figure><!-- End .member-media -->
-                            <div class="member-content">
-                                <h3 class="member-title">Rachel Green<span>Product Manager</span></h3><!-- End .member-title -->
-                            </div><!-- End .member-content -->
-                        </div><!-- End .member -->
-                    </div><!-- End .col-lg-3 -->
-
-                    <div class="col-sm-6 col-lg-3">
-                        <div class="member member-2 text-center">
-                            <figure class="member-media">
-                                <img src="assets/images/team/about-2/member-8.jpg" alt="member photo">
-
-                                <figcaption class="member-overlay">
-                                    <div class="social-icons social-icons-simple">
-                                        <a href="#" class="social-icon" title="Facebook" target="_blank"><i class="icon-facebook-f"></i></a>
-                                        <a href="#" class="social-icon" title="Twitter" target="_blank"><i class="icon-twitter"></i></a>
-                                        <a href="#" class="social-icon" title="Instagram" target="_blank"><i class="icon-instagram"></i></a>
-                                    </div><!-- End .soial-icons -->
-                                </figcaption><!-- End .member-overlay -->
-                            </figure><!-- End .member-media -->
-                            <div class="member-content">
-                                <h3 class="member-title">David Doe<span>Product Manager</span></h3><!-- End .member-title -->
-                            </div><!-- End .member-content -->
-                        </div><!-- End .member -->
-                    </div><!-- End .col-lg-3 -->
-                </div><!-- End .row -->
 
                 <div class="text-center mt-3">
                     <a href="blog.html" class="btn btn-sm btn-minwidth-lg btn-outline-primary-2">
@@ -287,49 +231,49 @@
                         <div class="row justify-content-center">
                             <div class="col-6 col-sm-4 col-md-3">
                                 <a href="#" class="brand">
-                                    <img src="assets/images/brands/1.png" alt="Brand Name">
+                                    <img src="images/free/bikaji.png" alt="Brand Name">
                                 </a>
                             </div><!-- End .col-md-3 -->
 
                             <div class="col-6 col-sm-4 col-md-3">
                                 <a href="#" class="brand">
-                                    <img src="assets/images/brands/2.png" alt="Brand Name">
+                                    <img src="images/free/pepsi.png" alt="Brand Name">
                                 </a>
                             </div><!-- End .col-md-3 -->
 
                             <div class="col-6 col-sm-4 col-md-3">
                                 <a href="#" class="brand">
-                                    <img src="assets/images/brands/3.png" alt="Brand Name">
+                                    <img src="images/free/oreoe.png" alt="Brand Name">
                                 </a>
                             </div><!-- End .col-md-3 -->
 
                             <div class="col-6 col-sm-4 col-md-3">
                                 <a href="#" class="brand">
-                                    <img src="assets/images/brands/7.png" alt="Brand Name">
+                                    <img src="images/free/kurkure.png" alt="Brand Name">
                                 </a>
                             </div><!-- End .col-md-3 -->
 
                             <div class="col-6 col-sm-4 col-md-3">
                                 <a href="#" class="brand">
-                                    <img src="assets/images/brands/4.png" alt="Brand Name">
+                                    <img src="images/free/nutella.png" alt="Brand Name">
                                 </a>
                             </div><!-- End .col-md-3 -->
 
                             <div class="col-6 col-sm-4 col-md-3">
                                 <a href="#" class="brand">
-                                    <img src="assets/images/brands/5.png" alt="Brand Name">
+                                    <img src="images/free/layslog.png" alt="Brand Name">
                                 </a>
                             </div><!-- End .col-md-3 -->
 
                             <div class="col-6 col-sm-4 col-md-3">
                                 <a href="#" class="brand">
-                                    <img src="assets/images/brands/6.png" alt="Brand Name">
+                                    <img src="images/free/wai.png" alt="Brand Name">
                                 </a>
                             </div><!-- End .col-md-3 -->
 
                             <div class="col-6 col-sm-4 col-md-3">
                                 <a href="#" class="brand">
-                                    <img src="assets/images/brands/9.png" alt="Brand Name">
+                                    <img src="images/free/hersheys.png" alt="Brand Name">
                                 </a>
                             </div><!-- End .col-md-3 -->
                         </div><!-- End .row -->

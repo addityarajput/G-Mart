@@ -33,15 +33,15 @@
                 						<ul class="contact-list">
                 							<li>
                 								<i class="icon-map-marker"></i>
-	                							70 Washington Square South New York, NY 10012, United States
+	                							Bharm Chwok -12 , National Trading , Birgunj
 	                						</li>
                 							<li>
                 								<i class="icon-phone"></i>
-                								<a href="tel:#">+92 423 567</a>
+                								<a href="tel:#">+977 9811122718</a>
                 							</li>
                 							<li>
                 								<i class="icon-envelope"></i>
-                								<a href="mailto:#">info@Molla.com</a>
+                								<a href="mailto:#">info@Gmart.com</a>
                 							</li>
                 						</ul><!-- End .contact-list -->
                 					</div><!-- End .contact-info -->
@@ -54,11 +54,11 @@
                 						<ul class="contact-list">
                 							<li>
                 								<i class="icon-clock-o"></i>
-	                							<span class="text-dark">Monday-Saturday</span> <br>11am-7pm ET
+	                							<span class="text-dark">Sunday-Friday</span> <br>11am-7pm ET
 	                						</li>
                 							<li>
                 								<i class="icon-calendar"></i>
-                								<span class="text-dark">Sunday</span> <br>11am-6pm ET
+                								<span class="text-dark">Saturday</span> <br>11am-6pm ET
                 							</li>
                 						</ul><!-- End .contact-list -->
                 					</div><!-- End .contact-info -->

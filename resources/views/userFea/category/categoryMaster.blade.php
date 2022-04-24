@@ -13,12 +13,12 @@
     <meta name="author" content="p-themes">
      <script src="https://kit.fontawesome.com/8aa55b4629.js" crossorigin="anonymous"></script>
     <!-- Favicon -->
-    <link rel="apple-touch-icon" sizes="180x180" href="images/mollaimages/icons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="images/mollaimages/icons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="images/mollaimages/icons/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="images/free/smallog.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/free/samllog.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/free/smallog.png">
     <link rel="manifest" href="images/mollaimages/icons/site.html">
     <link rel="mask-icon" href="images/mollaimages/icons/safari-pinned-tab.svg" color="#666666">
-    <link rel="shortcut icon" href="images/mollimages/icons/favicon.ico">
+    <link rel="shortcut icon" href="images/free/samllog.png">
     <meta name="apple-mobile-web-app-title" content="Molla">
     <meta name="application-name" content="Molla">
     <meta name="msapplication-TileColor" content="#cc9966">
